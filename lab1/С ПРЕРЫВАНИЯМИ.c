@@ -1,5 +1,4 @@
 #include <msp430.h>
-// volatile - zna4enie peremennoy menyaetsya izvne
 
 void delay(long int num_of_ops);
 int button1();
